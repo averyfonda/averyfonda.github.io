@@ -1,5 +1,5 @@
 ---
-title: "YOUR NAME" 
+title: "Avery Fonda" 
 about:
   template: trestles  # jolla  trestles  solana  marquee  broadside
   image: img/profile.png
@@ -9,10 +9,10 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/avery-fonda-b37519228
     - icon: instagram
       text: Instagram
-      href: https://instagram.com
+      href: https://www.instagram.com/averyfonda_/
     - icon: github
       text: GitHub
       href: https://github.com
@@ -26,7 +26,7 @@ about:
 ---
 
 
-Finley Malloc majors in Data Analytics at SUNY Geneseo. When not working on data analytics, Finley enjoys spending time unicycling and playing with her pet iguana.
+Avery Fonda is a student at SUNY Geneseo majoring in Accounting.
 
 ## Education
 
