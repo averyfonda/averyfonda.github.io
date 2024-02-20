@@ -20,22 +20,16 @@ about:
       text: Resumé
       href: https://GITHUB_USERNAME.github.io/resume-example.pdf
     - icon: mailbox
-      text: Email
-      href: mailto:YOUR_EMAIL@geneseo.edu
-
+      text: alf12@geneseo.edu
+      href: mailto:alf12@geneseo.edu
 ---
-
 
 Avery Fonda is a student at SUNY Geneseo majoring in Accounting.
 
 ## Education
 
-State University of New York at Geneseo | Geneseo, NY <br>
-B.S. in Data Analytics | Aug 2022 - May 2026 <br>
-Minor in Business Administration 
+State University of New York at Geneseo \| Geneseo, NY <br> B.S. in Data Analytics \| Aug 2022 - May 2026 <br> Minor in Business Administration
 
 ## Experience
 
-Starbucks Analytics | Data Analyst Intern | May 2024 - Aug 2024
-
-
+Starbucks Analytics \| Data Analyst Intern \| May 2024 - Aug 2024
