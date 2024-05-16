@@ -5,7 +5,7 @@ project:
 website:
   title: "Avery Fonda"
   navbar:
-    # background: "#1c4982"
+    # background: "#282424"
     pinned: true
     left:
       - text: Project
@@ -19,7 +19,6 @@ website:
 format:
   html:
     theme: 
-      light: flatly # flatly sandstone yeti united litera journal
       dark: darkly #  darkly cyborg slate solra superhero
     mainfont: system-ui; 
     highlight-style: atom-one  # atom-one espresso
