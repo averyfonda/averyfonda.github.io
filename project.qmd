@@ -46,7 +46,7 @@ theme_set(theme_ipsum()+
 
 About this project :clap:
 
-Our mission as AGK Real Estate is to figure out the housing prices in NYC within different neighborhoods, and boroughs. This is relevant because we need to find the cost of housing to be able to make it more affordable for those living in NYC. The prices of homes today are on the rise, because of the pandemic and inflation and it is our mission to make it so everyone in NYC can have affordable living.
+Our mission as AGK Real Estate is to figure out housing prices in NYC within different neighborhoods, and boroughs. This is relevant because we need to find the cost of housing to be able to make it more affordable for those living in NYC. The prices of homes today are on the rise, because of the pandemic and inflation and it is our mission to make it so everyone in NYC can have affordable living.
 
 As a real estate agency it is our job to provide homes that our clients will love at a low price.
 
