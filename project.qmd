@@ -58,7 +58,7 @@ nyc_housing_sales <- read_csv("https://bcdanl.github.io/data/nyc_housing_sales_2
 print(nyc_housing_sales)
 ```
 
-# What is the average housing price for each borough in NYC? (ggplot)
+# What is the average housing price for each borough in NYC? (Kenzie)
 
 ```{r}
 average_prices <- nyc_housing_sales |>
@@ -78,7 +78,7 @@ ggplot(data = average_prices) +
 
 ```
 
-# What month was the most popular in Queens for housing sales?
+# What month was the most popular in Queens for housing sales? (Avery)
 
 ```{r}
 most_popular_month <- nyc_housing_sales %>%
@@ -120,7 +120,7 @@ ggplot(all_months_sales, aes(x = month, y = ifelse(is.na(total_sales), 0, total_
 
 ```
 
-# What is the average housing price for each neighborhood in the Queens borough?
+# What is the average housing price for each neighborhood in the Queens borough? (Gordon)
 
 ```{r}
 
@@ -136,7 +136,7 @@ print(neighborhood_avg_price)
 
 ```
 
-# Is there any correlation between square footage and housing prices in different NYC boroughs?
+# Is there any correlation between square footage and housing prices in different NYC boroughs? (Kenzie)
 
 ```{r}
 cor_data <- nyc_housing_sales |>
@@ -157,7 +157,7 @@ ggplot(cor_data, aes(x = borough, y = corr)) +
 
 ```
 
-# How many housing units were built in 1925?
+# How many housing units were built in 1925? (Kenzie)
 
 ```{r}
 
@@ -168,7 +168,7 @@ units_1925 <- nyc_housing_sales |>
 print(units_1925)
 ```
 
-# Which zipcode in NYC has the most housing?
+# Which zipcode in NYC has the most housing? (Avery)
 
 ```{r}
 nyc_housing_sales %>%
@@ -191,7 +191,7 @@ nyc_housing_sales %>%
 
 ```
 
-# What is the most expensive neighborhood to live in NYC?
+# What is the most expensive neighborhood to live in NYC? (Gordon)
 
 ```{r}
 
@@ -204,7 +204,7 @@ print(paste("The most expensive neighborhood in NYC is:", most_expensive_neighbo
 
 ```
 
-# What are the top 5 most expensive housing units in NYC?
+# What are the top 5 most expensive housing units in NYC? (Gordon)
 
 ```{r}
 
@@ -214,7 +214,7 @@ print(top_5_expensive_units)
 
 ```
 
-# Which borough has the most apartments?
+# Which borough has the most apartments? (Avery)
 
 ```{r}
 nyc_housing_sales %>%
